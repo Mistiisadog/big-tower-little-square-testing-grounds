@@ -1,0 +1,48 @@
+{
+    "name": "Big tower little square testing grounds",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.15.18",
+        "tag": "v0.15.18",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/636055cd61c37ce9d6e5b103b3a1d34cddf11a69",
+        "target": "1.12.51",
+        "pxt": "5.30.44",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#f4f4f4",
+        "#b13e53",
+        "#a7f070",
+        "#ef7d57",
+        "#ffcd75",
+        "#257179",
+        "#38b764",
+        "#29366f",
+        "#3b5dc9",
+        "#41a6f6",
+        "#566c86",
+        "#333c57",
+        "#94b0c2",
+        "#5d275d",
+        "#1a1c2c"
+    ]
+}
